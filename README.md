@@ -1,3 +1,4 @@
-# vitejs-vite-yv7xdv
+# NeherApp 3 Module
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/lizzard77/vitejs-vite-yv7xdv)
+* Open in Codespace
+* npm run dev
